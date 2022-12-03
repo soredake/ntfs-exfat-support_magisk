@@ -1,0 +1,6 @@
+id=ntfs-exfat-support
+name=adds ntfs/exfat support to gsi
+version=1.0
+versionCode=100
+author=me
+description=adds ntfs/exfat support to gsi and binaries
